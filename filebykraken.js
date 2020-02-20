@@ -1,1 +1,1 @@
-<script></script>
+<script>alert('changed file')</script>
